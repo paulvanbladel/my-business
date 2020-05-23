@@ -4,7 +4,7 @@ title = "paul van bladel"
 theme = "somrat"
 # disable language
 disableLanguages = ["fr"] # desable language from here
-
+publishDir = "docs"
 ############################# Plugins ##############################
 
 # CSS Plugins
