@@ -1,0 +1,289 @@
+########################## hero area ##########################
+hero:
+  title : "I'm paul van bladel"
+
+  # animated text loop
+  occupations:
+    - "Digital transformation specialist"
+    - "Domain driven design"
+    - "Full stack application development"
+
+  # slider background image loop
+  slider_image:
+    - "images/slider/slider-4.jpg"
+    - "images/slider/slider-6.jpg"
+    - "images/slider/slider-7.jpg"
+
+  # button
+  button:
+    enable : true
+    label : "HIRE ME"
+    link : "#contact"
+
+
+####################### Full screen navigation #####################
+fullscreen_nav:
+  enable : true
+  bg_image : "images/slider/slider-4.jpg"
+  first_name : "paul"
+  last_name : "van bladel"
+  
+
+########################### About ##################################
+about:
+  enable : true
+  image : "images/backgrounds/portrait-paul.png"
+  title : "KNOW MORE <br> ABOUT ME"
+  content : "I'm Paul, Professional digital transformation specialist and full stack (web) developer. Musician and economist by education, IT pro by experience. 
+  Passionate about elegant software solutions with a focus on simplicity and maintainability."
+  # button
+  button:
+    enable : false
+    label : "DOWNLOAD MY CV"
+    link : "#" # you can put your cv in static folder and give the path here.
+
+###########################3 Experience ##############################
+experience:
+  enable : true
+  title : "EDUCATION"
+  experience_list:
+    # experience item loop
+    - name : "Master degree applied economics"
+      company : "University of Leuven"
+      duration : "1996-1998"
+      content : "major in corporate strategy"
+      
+    # experience item loop
+    - name : "Bachelor degree business engineering"
+      company : "University of Leuven"
+      duration : "1993-1996"
+      content : ""
+      
+    # experience item loop
+    - name : "First prices in piano, music theory, chamber music, ..."
+      company : "Royal Conservatory Brussels"
+      duration : "1987-1993"
+      content : "International Competition and teaching experience.
+      Specialties: piano music of F. Schubert, F. Chopin, L.v.Beethoven and J. Haydn.
+      Studied under supervision of André De Groote, Arie Van Lysebeth and Jan Michiels."
+    # experience item loop
+    - name : "High school "
+      company : "Sint-Victor Turnhout"
+      duration : "1981-1987"
+      content : "major in mathematics"
+
+############################### Skill #################################
+skill:
+  enable : true
+  title : "SKILLS"
+  skill_list:
+    # skill item loop
+    - name : "Web Development"
+      parcentage : "90%"
+      
+    # skill item loop
+    - name : "Domain driven design"
+      parcentage : "70%"
+      
+    # skill item loop
+    - name : "c#"
+      parcentage : "90%"
+      
+    # skill item loop
+    - name : "Javascript/typescript"
+      parcentage : "80%"
+
+
+################################### Service ##############################3
+service:
+  enable : true
+  title : "SERVICES"
+  service_list:
+    # service item loop
+    - name : "Web Development"
+      image : "images/icons/web-development.png"
+      
+    # service item loop
+    - name : "Analysis"
+      image : "images/icons/graphic-design.png"
+      
+    # service item loop
+    - name : "Database Management"
+      image : "images/icons/dbms.png"
+      
+    # service item loop
+    - name : "Software Development"
+      image : "images/icons/software-development.png"
+      
+    # service item loop
+    - name : "Digital Marketing"
+      image : "images/icons/marketing.png"
+      
+    # service item loop
+    - name : "Mobile App Development"
+      image : "images/icons/mobile-app.png"
+
+
+############################## call to action #########################
+call_to_action:
+  enable : true
+  bg_image : "images/backgrounds/need-service.jpg"
+  title : "NEED A SERVICE?"
+  button:
+    enable : true
+    label : "SAY HELLO!"
+    link : "#contact"
+
+
+############################# portfolio ################################
+portfolio:
+  enable : false
+  title : "PORTFOLIO"
+  portfolio_list:
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item1.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item2.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item3.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item4.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item5.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item6.jpg"
+      date : "Feb 2018"
+      category : "Web Development"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item7.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item8.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item9.jpg"
+      date : "Feb 2018"
+      category : "Database"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item10.jpg"
+      date : "Feb 2018"
+      category : "Database"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item11.jpg"
+      date : "Feb 2018"
+      category : "Database"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item12.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item13.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item14.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/item15.jpg"
+      date : "Feb 2018"
+      category : "Graphics"
+
+
+################################# Testimonial #########################33
+testimonial:
+  enable : true
+  title : "TESTIMONIALS"
+  testimonial_slider:
+    # slider item loop
+    - name : "Micheal Clark"
+      image : "images/clients/client1.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+                
+    # slider item loop
+    - name : "Peter Parker"
+      image : "images/clients/client2.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+                
+    # slider item loop
+    - name : "Jessica Jones"
+      image : "images/clients/client3.jpg"
+      designation : "CEO, RANDOM COMPANY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
+
+######################### funfacts #############################3
+funfacts:
+  enable : true
+  funfacts_list:
+    # funfacts item loop
+    - name : "HANDS TO WORK"
+      image : "images/icons/works.png"
+      count : "100"
+      
+    # funfacts item loop
+    - name : "HAPPY CLIENT"
+      image : "images/icons/happy.png"
+      count : "200"
+      
+    # funfacts item loop
+    - name : "FINISHED PROJECT"
+      image : "images/icons/project.png"
+      count : "250"
+      
+    # funfacts item loop
+    - name : "CUPS OF COFFEE"
+      image : "images/icons/coffee.png"
+      count : "150"
+
+
+############################## contact ###########################
+contact:
+  enable : true
+  title : "SAY HELLO!"
