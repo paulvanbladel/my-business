@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://www.opinionatedapps.com"
+baseURL = "https://www.opinionatedapps.com"
 title = "paul van bladel"
 theme = "somrat"
 # disable language

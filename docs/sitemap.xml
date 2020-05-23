@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.opinionatedapps.com/categories/</loc>
+    <loc>https://www.opinionatedapps.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.opinionatedapps.com/</loc>
+    <loc>https://www.opinionatedapps.com/</loc>
   </url>
   
   <url>
-    <loc>http://www.opinionatedapps.com/tags/</loc>
+    <loc>https://www.opinionatedapps.com/tags/</loc>
   </url>
   
 </urlset>
