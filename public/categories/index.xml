@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on paul van bladel</title>
-    <link>https://examplesite.com/categories/</link>
+    <link>http://www.opinionatedapps.com/categories/</link>
     <description>Recent content in Categories on paul van bladel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 paul van bladel</copyright>
     
-	<atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.opinionatedapps.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
