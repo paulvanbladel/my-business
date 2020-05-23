@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "http://www.opinionatedapps.com"
 title = "paul van bladel"
 theme = "somrat"
 # disable language
