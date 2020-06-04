@@ -34,7 +34,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait-paul.png"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "I'm Paul, Professional digital transformation specialist and full stack (web) developer. Musician and economist by education, IT pro by experience. 
+  content : "I am Paul, Professional digital transformation specialist and full stack (web) developer. Musician and economist by education, IT pro by experience. 
   Passionate about elegant software solutions with a focus on simplicity and maintainability."
   # button
   button:
